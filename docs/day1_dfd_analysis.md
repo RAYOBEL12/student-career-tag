@@ -20,3 +20,5 @@
 ## Notes
 - Entity relationships will inform database schema on Day 3.
 - These modules form the basis for MVP on Day 2.
+## Next Step:
+- Define MVP modules on Day 2
